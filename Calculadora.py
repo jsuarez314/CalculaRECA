@@ -16,9 +16,3 @@ def error_relativo_porcentual(valor_aproximado, valor_exacto):
         print("Error: El valor exacto no puede ser cero.")
         return None
 
-# Ejemplo de uso:
-valor_aproximado = 20
-valor_exacto = 18
-error = error_relativo_porcentual(valor_aproximado, valor_exacto)
-print("El error relativo porcentual es:", error)
-
