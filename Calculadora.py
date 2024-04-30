@@ -12,3 +12,6 @@ def resta(a,b):
 def suma(a,b):
 	# Función que suma los valores a y b
 	return a+b
+def raiz_cuadrada(a):
+     #Funcion que calcula la raíz cuadrada de a 
+     return a**(1/2)
